@@ -1,0 +1,27 @@
+﻿componente ,pin ,,componente,pin 
+esp32 super mini,5,,servo motor 1,S
+esp32 super mini,4,,servo motor 2,S
+esp32 super mini,3,,PUENTE H ,IN4
+esp32 super mini,2,,PUENTE H ,IN3
+esp32 super mini,1,,PUENTE H ,IN2
+esp32 super mini,0,,PUENTE H ,IN1
+esp32 super mini,GND,,PROTOBOARD,GND COMUN
+esp32 super mini,5V,,PROTOBOARD, 5V
+puente H ,MOTOR B ,,MOTOR B ,S
+puente H ,MOTOR A,,MOTOR A,S
+puente H ,GND,,PROTOBOARD,GND COMUN
+puente H ,5V,,PROTOBOARD,DIRECTA
+servo motor 1,GND,,PROTOBOARD,GND COMUN
+servo motor 1,5V,,PROTOBOARD, 5V
+servo motor 2,GND,,PROTOBOARD,GND COMUN
+servo motor 2,5V,,PROTOBOARD, 5V
+buck converter ,IN+,,PROTOBOARD,DIRECTA
+buck converter ,IN-,,PROTOBOARD,GND COMUN
+buck converter ,OUT+,,PROTOBOARD,5V
+buck converter ,OUT-,,PROTOBOARD,GND COMUN
+boton ,NC,,no conectado,no conectado
+boton ,NO ,,PROTOBOARD,DIRECTA
+boton ,COM,,bateria,positivo
+Led piloto,S,,PROTOBOARD,DIRECTA
+Led piloto,Negativo ,,PROTOBOARD,GND COMUN
+bateria,Negativo ,,PROTOBOARD,GND COMUN
