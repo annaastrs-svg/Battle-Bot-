@@ -1,6 +1,6 @@
-Kafkas Bot 
+Laminax Bot 
 ---
-Kafkas Bot es un Battle bot de pelea con una arma tipo hacha controlada por dos servomotores 180.
+Laminax es un Battle bot de pelea con una arma tipo hacha controlada por dos servomotores 180.
 funciona gracias a un esp32 c3 super mini, controlado por un control LogiTECH y movilidad por dos motores N20,
 es alimentado por una bateria de 7.4 V y 6800 mAh, tiene un boton con COM,NC,NO para seguridad y un LED piloto.
 
