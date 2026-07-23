@@ -47,9 +47,9 @@ esto es lo que muestra la terminal una vez que se corre el codigo, uso esto para
 | Batería 7.4V 8A | Alimentación principal | 2 | $39.76 | Batería Para Coches, Helicóptero Rc Wltoys, Lipo 18650 2s 7.4V · Meses sin interés |
 | Kit de Cables Dupont | Cables | 1 | $5.30 | 120 Cables Dupont Extra Largos 30cm Macho-Macho: Plug/Plug · Envío gratis |
 
-**Total aproximado: $98.23** *(asumiendo que "Costo" ya es el total de esa línea, no por unidad individual — revísalo si alguna compra fue distinta)*
+ aprox $98.23
 
-## 🔌 Conexiones
+## Tabla de Conexiones
 
 <table>
 <thead>
