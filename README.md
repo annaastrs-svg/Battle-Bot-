@@ -86,4 +86,8 @@ esto es lo que muestra la terminal una vez que se corre el codigo, uso esto para
 </tbody>
 </table>
 
+Circuito 
+<img width="635" height="847" alt="Captura de pantalla 2026-07-23 133215" src="https://github.com/user-attachments/assets/c8713bb8-a8fa-47a3-b22f-2182bea57f27" />
+
+
 Gracias a todo lector dios te bendiga :B 
