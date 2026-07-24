@@ -16,7 +16,8 @@ KiCAD
 <img width="1917" height="1198" alt="Captura de pantalla 2026-07-22 165208" src="https://github.com/user-attachments/assets/58128697-4cad-4024-be44-1301f47d20df" />
 
 PCB
-<img width="1238" height="907" alt="Captura de pantalla 2026-07-23 202517" src="https://github.com/user-attachments/assets/57b8b40a-67cc-491e-8629-4b0b1eefc47e" />
+<img width="1238" height="907" alt="Captura de pantalla 2026-07-23 202517" src="https://github.com/user-attachments/assets/ed66e1ca-ff29-4b39-bc5e-c514639d650a" />
+
 
 
 ESCHEMATIC
