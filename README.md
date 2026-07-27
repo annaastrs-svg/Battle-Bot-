@@ -32,9 +32,10 @@ CODE
 visual studio code 
 tenemos 3 codigos 
 2 python  que son para el probar el control y otro para controlar el robot 
+
 [codigo de probar control](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Probar%20control.py)
 
-[codigo de control robot]([ruta_del_archivo](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Control%20robot.py)
+[codigo de control robot](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Control%20robot.py)
 
 y 1 c++ en arduino IDE, este codigo es el que crea la red wifi, nos da info desde la terminal, ponemos seguridad por si perdemos conecion yyy define los motores los servos y asi :B 
 [Codigo Arduino IDE]([ruta_del_archivo](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/laminax_bot.ino))
