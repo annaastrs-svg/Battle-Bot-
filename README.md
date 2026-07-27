@@ -21,6 +21,10 @@ KiCAD
 3D VIEW
 <img width="1238" height="907" alt="Captura de pantalla 2026-07-23 202517" src="https://github.com/user-attachments/assets/27eba5a1-45af-4818-b4e3-bb360d084edd" />
 
+Esquematico
+<img width="1277" height="837" alt="image" src="https://github.com/user-attachments/assets/330eff11-2c99-4883-bf4b-7820532edf11" />
+
+
 CODE
 ---
 visual studio code 
