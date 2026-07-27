@@ -1,0 +1,21 @@
+﻿Componente,pin,,componente,pin
+esp32,5,,servo,S
+esp32,0,,drv8833,IN1
+esp32,1,,drv8833,IN2
+esp32,2,,drv8833,IN3
+esp32,3,,drv8833,IN4
+esp32,GND,,protobard,gnd comun
+esp32,5V,,protobard,5V
+drv8833,GND,,protobard,gnd comun
+drv8833,SLEEP,,protobard,5V
+drv8833,5V,,protobard (2,5V 
+drv8833,OUT1,,motor A,S
+drv8833,OUT2,,motor A,S
+drv8833,OUT3,,motor B,S
+drv8833,OUT4,,motor B,S
+servo,5V,,protobard,5V
+servo,GND,,protobard,gnd comun
+baterias paralelo,negativo,,protobard,gnd comun
+baterias paralelo,positivo,,protobard (2,5V 
+bateria 2000mAh,negativo,,protobard,gnd comun
+bateria 2000mAh,positivo,,protobard,5V
