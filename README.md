@@ -39,18 +39,18 @@ tenemos 3 codigos
 
 y 1 c++ en arduino IDE, este codigo es el que crea la red wifi, nos da info desde la terminal, ponemos seguridad por si perdemos conecion yyy define los motores los servos y asi :B 
 
-[Codigo Arduino IDE]([ruta_del_archivo](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/laminax_bot.ino)
+[Codigo Arduino IDE](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/laminax_bot.ino)
 
 
 # Lista de Materiales (BOM) — Laminax Bot
 
 | Componente | Para qué | Cantidad | Precio | Producto |
 |---|---|---|---|---|
-| Motores N20 | Motores principales (llantas) | 2 | $13.00 | Kit 2 Piezas De Motorreductor Motor 30:1 298: 150:1 50:1 N20 |
+| Motores N20 | Motores principales (llantas) | 2 | $13.00 | [Kit 2 Piezas De Motorreductor Motor 30:1 298: 150:1 50:1 N20 ](https://www.mercadolibre.com.mx/n20-micro-motor-dc-con-reduccion-6v-200-rpm/up/MLMU721988694?pdp_filters=item_id%3AMLM3286891636&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLMU721988694&matt_product_partition_id=4577198197450204&matt_target_id=pla-4577198197450204&msclkid=cf92e911e1ec13565a9f83775c3f8272&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450204&utm_content=CE)|
 | MG996R | Servo motor del arma | 1 | $129.99  |https://www.mercadolibre.com.mx/servomotor-mg996r--mg995-servo-motor/up/MLMU698938548?pdp_filters=item_id%3AMLM5005746376&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLMU698938548&matt_product_partition_id=4577198197450206&matt_target_id=pla-4577198197450206&msclkid=b9da9ea54f45191d3b03f4c3f2cf8dbb&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450206&utm_content=CE |
-| ESP32-C3 SuperMini | Cerebro del circuito | 1 | $5.63 | Esp32-c3 Esp32 Supermini Wifi Bluetooth |
+| ESP32-C3 SuperMini | Cerebro del circuito | 1 | $5.63 | https://www.mercadolibre.com.mx/esp32-c3-esp32-supermini-wifi-bluetooth/p/MLM46912341?pdp_filters=item_id%3AMLM2779591141&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLM46912341-product&matt_product_partition_id=4577198197450204&matt_target_id=pla-4577198197450204&msclkid=bb5ca1be34e817af15f1cbd88904733f&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450204&utm_content=CE |
 | Batería 3.7V 2000mAh | Alimentación ESP32/Servo | 1 | $39.76  | |
-| Kit cables dupont | Cables | 1 | $5.30 | 120 Cables Dupont Extra Largos 30cm Macho-Macho |
+| Kit cables dupont | Cables | 1 | $5.30 | https://www.mercadolibre.com.mx/cables-jumper-dupont-m-m-20cm-40-arduino-protoboard/p/MLM46898481?pdp_filters=item_id%3AMLM3587883832&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLM46898481-product&matt_product_partition_id=4577198197450205&matt_target_id=pla-4577198197450205&msclkid=0b59b00f2e4e12d6929bda69904acc84&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450205&utm_content=CE |
 | Batería 3.7V 500mAh | Alimentación de motores | 2 | ~$52.00 c/u | [Batería LiPo 3.7V 500mAh recargable 1S 25C](https://www.mercadolibre.com.mx/bateria-lipo-litio-37v-500mah-recargable-1s-25c-pila-litio/p/MLM2039836242) |
 | DRV8833 | Puente H | 1 | $55.00 | [Módulo DRV8833 Driver Para Motores](https://www.electronicsavalanche.com.mx/shop/driv001-modulo-drv8833-driver-para-motores-890) |
 
