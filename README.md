@@ -19,7 +19,8 @@ en el cad estan los dos motores dc, llantas y dos servomotores para dar una idea
 KiCAD
 ---
 3D VIEW
-<img width="1917" height="1198" alt="Captura de pantalla 2026-07-22 165208" src="https://github.com/user-attachments/assets/58128697-4cad-4024-be44-1301f47d20df" />
+<img width="1238" height="907" alt="Captura de pantalla 2026-07-23 202517" src="https://github.com/user-attachments/assets/27eba5a1-45af-4818-b4e3-bb360d084edd" />
+
 
 PCB
 <img width="1238" height="907" alt="Captura de pantalla 2026-07-23 202517" src="https://github.com/user-attachments/assets/ed66e1ca-ff29-4b39-bc5e-c514639d650a" />
