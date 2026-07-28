@@ -1,13 +1,14 @@
 Laminax Bot 
 ---
+Esta es la versión simplificada de el proyecto, sin pygame y dolores de fakin cabeza con VS CODE y el control que es tan difícil de hacer funcionar correctamente. . . 
 Laminax es un Battle bot de pelea con una arma tipo hacha controlada por un servo motor MG996R
-funciona gracias a un esp32 c3 super mini, controlado por un control LogiTECH y movilidad por dos motores N20,
-es alimentado por 3 baterias(dos 3.7V 500 mah en paralelo) & (una 3.7V 2000 mAh)
+funciona gracias a un esp32 c3 super mini y movilidad por dos motores N20,
+es alimentado por 3 baterías(dos 3.7V 500 mAh en paralelo) & (una 3.7V 2000 mAh)
 
 FOTO terminado xq aun no acabo jaja ejej xd xd xd  ayuda 
 
 como funciona?
-como es controlado con un logitech, te conectas desde la compu a la wifi de la esp32 c3 y mueves el robot con los dos joysticks y lo mas dificil, el arma se mueve con "A" mientras la presionas ataca y cuando sueltas la tecla regresa a su posicion de reposo 
+como es controlado con el cel, , te conectas desde la compu a la wifi de la esp32 y mueves el robot con los mandos en pantalla y lo mas difícil, el arma se mueve con "A" mientras la presionas ataca y cuando sueltas la tecla regresa a su posición de reposo 
 
 
 CAD
@@ -27,15 +28,15 @@ Esquematico
 
 CODE
 ---
-visual studio code 
-tenemos 3 codigos 
+visual estudio code 
+tenemos 3 códigos 
 2 python  que son para el probar el control y otro para controlar el robot 
 
 [codigo de probar control](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Probar%20control.py)
 
 [codigo de control robot](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Control%20robot.py)
 
-y 1 c++ en arduino IDE, este codigo es el que crea la red wifi, nos da info desde la terminal, ponemos seguridad por si perdemos conecion yyy define los motores los servos y asi :B 
+y 1 c++ en arduino IDE, este código es el que crea la red wifi, nos da info desde la terminal, ponemos seguridad por si perdemos conecion yyy define los motores los servos y así :B 
 
 [Codigo Arduino IDE](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/laminax_bot.ino)
 
@@ -46,7 +47,7 @@ y 1 c++ en arduino IDE, este codigo es el que crea la red wifi, nos da info desd
 |---|---|---|---|---|
 | Motores N20 | Motores principales (llantas) | 2 | $13.00 | [Kit 2 Piezas De Motorreductor Motor 30:1 298: 150:1 50:1 N20 ](https://www.mercadolibre.com.mx/n20-micro-motor-dc-con-reduccion-6v-200-rpm/up/MLMU721988694?pdp_filters=item_id%3AMLM3286891636&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLMU721988694&matt_product_partition_id=4577198197450204&matt_target_id=pla-4577198197450204&msclkid=cf92e911e1ec13565a9f83775c3f8272&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450204&utm_content=CE)|
 | MG996R | Servo motor del arma | 1 | $129.99  |https://www.mercadolibre.com.mx/servomotor-mg996r--mg995-servo-motor/up/MLMU698938548?pdp_filters=item_id%3AMLM5005746376&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLMU698938548&matt_product_partition_id=4577198197450206&matt_target_id=pla-4577198197450206&msclkid=b9da9ea54f45191d3b03f4c3f2cf8dbb&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450206&utm_content=CE |
-| ESP32-C3 SuperMini | Cerebro del circuito | 1 | $5.63 | https://www.mercadolibre.com.mx/esp32-c3-esp32-supermini-wifi-bluetooth/p/MLM46912341?pdp_filters=item_id%3AMLM2779591141&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLM46912341-product&matt_product_partition_id=4577198197450204&matt_target_id=pla-4577198197450204&msclkid=bb5ca1be34e817af15f1cbd88904733f&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450204&utm_content=CE |
+| ESP32 | Cerebro del circuito | 1 | $5.63 | https://www.mercadolibre.com.mx/esp32-c3-esp32-supermini-wifi-bluetooth/p/MLM46912341?pdp_filters=item_id%3AMLM2779591141&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLM46912341-product&matt_product_partition_id=4577198197450204&matt_target_id=pla-4577198197450204&msclkid=bb5ca1be34e817af15f1cbd88904733f&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450204&utm_content=CE |
 | Batería 3.7V 2000mAh | Alimentación ESP32/Servo | 1 | $39.76  | |
 | Kit cables dupont | Cables | 1 | $5.30 | https://www.mercadolibre.com.mx/cables-jumper-dupont-m-m-20cm-40-arduino-protoboard/p/MLM46898481?pdp_filters=item_id%3AMLM3587883832&from=gshop&matt_tool=15920969&matt_word=&matt_source=microsoft&matt_campaign_id=571305430&matt_ad_group_id=1177579225794197&matt_match_type=e&matt_network=o&matt_device=c&matt_creative=&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=50038545&matt_product_id=MLM46898481-product&matt_product_partition_id=4577198197450205&matt_target_id=pla-4577198197450205&msclkid=0b59b00f2e4e12d6929bda69904acc84&utm_source=bing&utm_medium=cpc&utm_campaign=MLM_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4577198197450205&utm_content=CE |
 | Batería 3.7V 500mAh | Alimentación de motores | 2 | ~$52.00 c/u | [Batería LiPo 3.7V 500mAh recargable 1S 25C](https://www.mercadolibre.com.mx/bateria-lipo-litio-37v-500mah-recargable-1s-25c-pila-litio/p/MLM2039836242) |
