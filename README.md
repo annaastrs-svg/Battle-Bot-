@@ -2,13 +2,13 @@ Laminax Bot
 ---
 Esta es la versión simplificada de el proyecto, sin pygame y dolores de fakin cabeza con VS CODE y el control que es tan difícil de hacer funcionar correctamente. . . 
 Laminax es un Battle bot de pelea con una arma tipo hacha controlada por un servo motor MG996R
-funciona gracias a un esp32 c3 super mini y movilidad por dos motores N20,
+funciona gracias a un esp32 c3 y movilidad por dos motores N20,
 es alimentado por 3 baterías(dos 3.7V 500 mAh en paralelo) & (una 3.7V 2000 mAh)
 
 FOTO terminado xq aun no acabo jaja ejej xd xd xd  ayuda 
 
 como funciona?
-como es controlado con el cel, , te conectas desde la compu a la wifi de la esp32 y mueves el robot con los mandos en pantalla y lo mas difícil, el arma se mueve con "A" mientras la presionas ataca y cuando sueltas la tecla regresa a su posición de reposo 
+como es controlado con el cel, , te conectas desde la compu a la wifi de la esp32 y mueves el robot con los mandos en pantalla y lo mas difícil, el arma se mueve con "Atacar" mientras la presionas ataca y cuando sueltas el boton regresa a su posición de reposo 
 
 
 CAD
@@ -79,3 +79,10 @@ y 1 c++ en arduino IDE, este código es el que crea la red wifi, nos da info des
 | Baterías (paralelo) | positivo | → | Protoboard | DIRECTA  |
 | Batería 2000mAh | negativo | → | Protoboard | GND COMÚN |
 | Batería 2000mAh | positivo | → | Protoboard | 5V |
+
+Control
+---
+
+<img width="1917" height="943" alt="Captura de pantalla 2026-07-27 193015" src="https://github.com/user-attachments/assets/0891146f-8630-42f4-b524-707550c4d5bd" />
+
+la diferencia es q esta weonada esta mas simple por q no ocupamos VS code ni el joystivk por q me duele la cabeza de batallar con el fliping control 
