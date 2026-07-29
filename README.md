@@ -15,7 +15,6 @@ CAD
 ---
 en el cad estan los dos motores dc, llantas y dos servomotores para dar una idea de el acomodo
 <img width="920" height="732" alt="Captura de pantalla 2026-07-26 191900" src="https://github.com/user-attachments/assets/4063b389-bc0a-4107-ac08-8d1bd1ae6b5e" />
-<img width="927" height="702" alt="Captura de pantalla 2026-07-26 191851" src="https://github.com/user-attachments/assets/9abc16c8-c720-496d-9dd6-70a8e6c14796" />
 
 KiCAD
 ---
