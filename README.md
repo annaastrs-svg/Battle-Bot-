@@ -5,8 +5,11 @@ Laminax es un Battle bot de pelea con una arma tipo hacha controlada por un serv
 funciona gracias a un esp32 c3 super mini, controlado por un control LogiTECH y movilidad por dos motores N20,
 es alimentado por 3 baterias(dos 3.7V 500 mah en paralelo) & (una 3.7V 2000 mAh)
 
+<img width="1584" height="672" alt="Gemini_Generated_Image_ytokjlytokjlytok" src="https://github.com/user-attachments/assets/d9275b8a-b8f4-430a-a0e9-3e47e4c705d6" />
+<img width="1584" height="672" alt="Gemini_Generated_Image_a7q2tca7q2tca7q2" src="https://github.com/user-attachments/assets/f9168230-4add-477d-a381-f17120c6e088" />
+
+
 BTW look at my [JOURNAL.MD !](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/journal.md)
-(FOTO terminado xq aun no acabo jaja ejej xd xd xd  ayuda) 
 
 como funciona?
 como es controlado con un logitech, te conectas desde la compu a la wifi de la esp32 c3 y mueves el robot con los dos joysticks y lo mas dificil, el arma se mueve con "A" mientras la presionas ataca y cuando sueltas la tecla regresa a su posicion de reposo 
