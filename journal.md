@@ -69,9 +69,7 @@ tiempo final de el proyecto: 37 Horas :O
 --
 FOTOSSS :b 
 ---
-<img width="600" height="757" alt="Captura de pantalla 2026-07-29 092132" src="https://github.com/user-attachments/assets/6c944482-5d43-48d9-816c-7c55ba84d3ed" />
 <img width="620" height="682" alt="Captura de pantalla 2026-07-29 092235" src="https://github.com/user-attachments/assets/ec70a5e6-873f-4d05-838a-ee4a8acb53f9" />
 <img width="563" height="412" alt="Captura de pantalla 2026-07-29 092216" src="https://github.com/user-attachments/assets/164c695f-65dc-475b-8adf-f0e5dd8ab8aa" />
-<img width="457" height="575" alt="image" src="https://github.com/user-attachments/assets/2ac04cf5-de28-41f0-95f4-233fe2787fd5" />
 <img width="617" height="781" alt="image" src="https://github.com/user-attachments/assets/2ed49065-e090-4a9c-873b-f0d7a711c036" />
 
