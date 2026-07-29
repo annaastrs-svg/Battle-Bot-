@@ -10,7 +10,7 @@ es alimentado por 3 baterías(dos 3.7V 500 mah en paralelo) & (una 3.7V 2000 mAh
 (las fotos están juntadas por gemini, mas no están modificadas)
 
 BTW look at my [JOURNAL.MD !](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/journal.md)
-
+[andd the youtube video of the project...](https://youtu.be/gHDkoSpJhSc?si=piYCwfSNSOPA8Sjc)may not be the best video its super homemade  ignore that...
 como funciona?
 como es controlado con un logitech, te conectas desde la compu a la wifi de la esp32 c3 y mueves el robot con los dos joysticks y lo mas dificil, el arma se mueve con "A" mientras la presionas ataca y cuando sueltas la tecla regresa a su posición de reposo 
 
