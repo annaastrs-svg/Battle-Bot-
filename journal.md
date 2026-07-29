@@ -1,6 +1,8 @@
 Laminax Bot Journal.md
 ---
 este proyecto llevo 8 días 
+<img width="1584" height="672" alt="Gemini_Generated_Image_ytokjlytokjlytok" src="https://github.com/user-attachments/assets/a5ff3857-6f5e-46c7-bff0-b28273ac5859" />
+<img width="1584" height="672" alt="Gemini_Generated_Image_a7q2tca7q2tca7q2" src="https://github.com/user-attachments/assets/91068c42-b7f0-42d2-b32b-87927b59930b" />
 
 Codigo 
 --
@@ -63,5 +65,5 @@ cambie de drivers, cambie de microchip, cambie totalmete la distrubuccion de ene
 aprendi muchote de este proyecto por que queria hacerlo desde mi conocimiento, sin seguir un tutorial o instrucciones de gemini lolazo
 maybe no es hermoso a la vista pero es mi hijo KJEJEJE 
 
-tiempo final de el proyecto: 35 Horas :O 
+tiempo final de el proyecto: 37 Horas :O 
 --
