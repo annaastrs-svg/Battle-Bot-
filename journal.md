@@ -20,7 +20,7 @@ Este es el [Control Robot.py](https://github.com/annaastrs-svg/Battle-Bot-/blob/
 
 yy en la foto se ve como el código te dice en la terminal mil y un veces por segundo los ángulos de el control, la verdad es que ajuste el codigo varias veces por que lo mide a una velocidad inmensa y no es que entorpezca el código , pero si a ti!
 
-<img width="488" height="282" alt="Captura de pantalla 2026-07-26 174635" src="https://github.com/user-attachments/assets/f91279f4-20bd-48c2-9370-3c666de4349f" />
+<img width="892" height="862" alt="Captura de pantalla 2026-07-26 172750" src="https://github.com/user-attachments/assets/56f2145d-970f-47d3-9950-93e02f356491" />
 
 Este es el [Probar Control.py](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Probar%20control.py)
 yy lo q hace es detectar el eje de el control y así para una buena detección, te da instrucciones que hay q hacer en la terminal, esta epico 
