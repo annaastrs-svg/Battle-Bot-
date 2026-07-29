@@ -1,8 +1,8 @@
 Laminax Bot 
 ---
 
-Laminax es un Battle bot de pelea con una arma tipo hacha controlada por un servo motor MG996R
-funciona gracias a un esp32 c3 super mini, controlado por un control LogiTECH y movilidad por dos motores N20,
+Laminax es un Battle bot de pelea con una arma tipo hacha movida servo motor MG996R
+funciona gracias a un esp32, controlado por un control LogiTECH y movilidad por dos motores N20,
 es alimentado por 3 baterías(dos 3.7V 500 mah en paralelo) & (una 3.7V 2000 mAh)
 
 <img width="1584" height="672" alt="Gemini_Generated_Image_ytokjlytokjlytok" src="https://github.com/user-attachments/assets/d9275b8a-b8f4-430a-a0e9-3e47e4c705d6" />
