@@ -1,10 +1,11 @@
 Laminax Bot 
 ---
+
 Laminax es un Battle bot de pelea con una arma tipo hacha controlada por un servo motor MG996R
 funciona gracias a un esp32 c3 super mini, controlado por un control LogiTECH y movilidad por dos motores N20,
 es alimentado por 3 baterias(dos 3.7V 500 mah en paralelo) & (una 3.7V 2000 mAh)
 
-FOTO terminado xq aun no acabo jaja ejej xd xd xd  ayuda 
+(FOTO terminado xq aun no acabo jaja ejej xd xd xd  ayuda) 
 
 como funciona?
 como es controlado con un logitech, te conectas desde la compu a la wifi de la esp32 c3 y mueves el robot con los dos joysticks y lo mas dificil, el arma se mueve con "A" mientras la presionas ataca y cuando sueltas la tecla regresa a su posicion de reposo 
@@ -12,9 +13,8 @@ como es controlado con un logitech, te conectas desde la compu a la wifi de la e
 
 CAD
 ---
-en el cad estan los dos motores dc, llantas y dos servomotores para dar una idea de el acomodo
+diseñoo - en el cad estan los dos motores dc, llantas y dos servomotores para dar una idea de el acomodo
 <img width="920" height="732" alt="Captura de pantalla 2026-07-26 191900" src="https://github.com/user-attachments/assets/4063b389-bc0a-4107-ac08-8d1bd1ae6b5e" />
-<img width="927" height="702" alt="Captura de pantalla 2026-07-26 191851" src="https://github.com/user-attachments/assets/9abc16c8-c720-496d-9dd6-70a8e6c14796" />
 
 KiCAD
 ---
@@ -78,3 +78,9 @@ y 1 c++ en arduino IDE, este codigo es el que crea la red wifi, nos da info desd
 | Baterías (paralelo) | positivo | → | Protoboard | DIRECTA  |
 | Batería 2000mAh | negativo | → | Protoboard | GND COMÚN |
 | Batería 2000mAh | positivo | → | Protoboard | 5V |
+
+ASSEMBLYY 
+---
+
+Este projecto fue hecho para [MACONDO](https://macondo.hackclub.com/dashboard)
+
