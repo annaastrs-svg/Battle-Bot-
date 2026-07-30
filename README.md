@@ -80,11 +80,14 @@ y 1 c++ en arduino IDE, este código es el que crea la red wifi, nos da info des
 | Servo | GND | → | Protoboard | GND COMÚN |
 | Baterías (paralelo) | negativo | → | Protoboard | GND COMÚN |
 | Baterías (paralelo) | positivo | → | Protoboard | DIRECTA  |
-| Batería 2000mAh | negativo | → | Protoboard | GND COMÚN |
-| Batería 2000mAh | positivo | → | Protoboard | 5V |
+| Baterías serie | negativo | → | Protoboard | GND COMÚN |
+| Batería serie | positivo | → | Protoboard | 5V |
 
-ASSEMBLYY 
+Notes
 ---
+justificacion de las horas:
+el proyecto tuvo 2 cambios totales, en el cad, en el codigo y materiales.
+lo que hizo que el proyecto tardara.
 
 Este projecto fue hecho para [MACONDO](https://macondo.hackclub.com/dashboard)
 
