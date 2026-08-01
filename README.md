@@ -1,6 +1,8 @@
 Laminax Bot 
 ---
-Laminax is a battle bot with an axe-type weapon powered by an MG996R servo motor. It works thanks to an ESP32, controlled by a LogiTECH controller, and moves with two N20 motors. It's powered by 3 batteries (two 3.7V 500 mAh in parallel) & (one 3.7V 2000 mAh).
+Laminax is a battle bot with an axe-type weapon powered by an MG996R servo motor. 
+It works thanks to an ESP32, controlled by a LogiTECH controller, and moves with two N20 motors. 
+It's powered by 3 batteries (two 3.7V 500 mAh in parallel) & (one 3.7V 2000 mAh).
 
 <img width="1584" height="672" alt="Gemini_Generated_Image_ytokjlytokjlytok" src="https://github.com/user-attachments/assets/d9275b8a-b8f4-430a-a0e9-3e47e4c705d6" />
 <img width="1584" height="672" alt="Gemini_Generated_Image_a7q2tca7q2tca7q2" src="https://github.com/user-attachments/assets/f9168230-4add-477d-a381-f17120c6e088" />
@@ -8,9 +10,12 @@ gemini made photos l o l , non modificated
 
 
 BTW look at my [JOURNAL.MD !](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/journal.md)
+
 [andd the youtube video of the project...](https://youtu.be/gHDkoSpJhSc?si=piYCwfSNSOPA8Sjc)may not be the best video its super homemade  ignore that...
+
 How does it work?
-How it’s controlled with a Logitech: you connect from the computer to the ESP32-C3's Wi-Fi and move the robot with the two joysticks. The trickiest part is the weapon—it moves with “A”; while you hold it, it attacks, and when you release the key, it goes back to its resting position.
+How it’s controlled with a Logitech: you connect from the computer to the ESP32-C3's Wi-Fi and move the robot with the two joysticks. 
+The trickiest part is the weapon—it moves with “A”; while you hold it, it attacks, and when you release the key, it goes back to its resting position.
 
 CAD
 ---
@@ -36,12 +41,11 @@ we have 3 codes
 [control test code](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Probar%20control.py)
 
 
-[test control robot(https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Control%20robot.py)
+[test control robot](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/Control%20robot.py)
 
 [Arduino IDE Code](https://github.com/annaastrs-svg/Battle-Bot-/blob/actualizacion/laminax_bot.ino)
 
 # Bill of Materials (BOM)
-# Bill of Materials (BOM) — Laminax Bot
 
 | Component | Purpose | Qty | Price | Product |
 |---|---|---|---|---|
