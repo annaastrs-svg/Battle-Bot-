@@ -90,3 +90,10 @@ Justification of the hours:
 The project had 2 total changes, in the CAD, in the code, and materials. This made the project take longer.
 
 This project was made for [MACONDO](https://macondo.hackclub.com/dashboard)
+
+
+Component,Purpose,Qty,Price,Product
+Pila de 9V,Fuente de energia del motor,1,~$3 (paquete de 8 trae mas),https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S
+Alambre de cobre esmaltado 24 AWG,Bobina del rotor,1 metro,"~$8 (rollo de 50g, sobra bastante)",https://www.amazon.com/FACHOIK-AWG-Magnet-Wire-Transformers/dp/B0CNRFMZTY
+Iman de neodimio pequeno,Campo magnetico del estator,1,~$7 (paquete minimo de 4),https://www.amazon.com/DIYMAG-Powerful-Neodymium-Magnets-Diameter/dp/B0B8GSR5YY
+"Clips metalicos grandes, sin recubrimiento (para que si conduzcan)",Soporte del eje + contacto electrico,2,~$8 (paquete minimo de 300),https://www.amazon.com/NEEWAY-300pcs-Large-Paper-Paperclips/dp/B0C3LPXT6L
